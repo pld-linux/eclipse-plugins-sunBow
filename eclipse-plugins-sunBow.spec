@@ -8,6 +8,7 @@ Group:		Development/Languages/Java
 Source0:	http://sunshine.s-und-n.de/downloads/sunBow/sunBow-plugins-%{version}.zip
 # Source0-md5:	f7eea639cd7147522b78f81a11fba1de
 URL:		http://radio.weblogs.com/0108489/
+BuildRequires:	unzip
 Requires:	eclipse
 Requires:	jdk
 BuildArch:	noarch

@@ -1,12 +1,12 @@
 Summary:	sunBow - a collection of Eclipse plugins
 Summary(pl):	sunBow - zestaw wtyczek do Eclipsa
 Name:		eclipse-plugins-sunBow
-Version:	1.0
+Version:	2.0
 Release:	1
 License:	not precise, free for single users
 Group:		Development/Languages/Java
 Source0:	http://sunshine.s-und-n.de/downloads/sunBow/sunBow-plugins-%{version}.zip
-# Source0-md5:	3d317c7a958b54a23b26654ede17de72
+# Source0-md5:	f7eea639cd7147522b78f81a11fba1de
 URL:		http://radio.weblogs.com/0108489/
 Requires:	eclipse
 Requires:	jdk

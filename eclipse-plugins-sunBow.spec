@@ -30,7 +30,7 @@ opartych na Cocoon i, w ogólno¶ci, rozwi±zaniach XML-owych.
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_eclipsedir}/plugins
 
-cp -r *  $RPM_BUILD_ROOT%{_eclipsedir}/plugins
+cp -R *  $RPM_BUILD_ROOT%{_eclipsedir}/plugins
 
 %clean
 rm -rf $RPM_BUILD_ROOT
@@ -42,4 +42,6 @@ rm -rf $RPM_BUILD_ROOT
 %{_eclipsedir}/plugins/de.sundn.prod.sunbow.doc
 %{_eclipsedir}/plugins/de.sundn.prod.sunbow.webapp
 %{_eclipsedir}/plugins/de.sundn.prod.sunbow.xml
+%{_eclipsedir}/plugins/de.sundn.prod.sunbow.log
+%{_eclipsedir}/plugins/de.sundn.prod.sunbow.cocoon.debug
 %{_eclipsedir}/plugins/org.apache.commons.latka

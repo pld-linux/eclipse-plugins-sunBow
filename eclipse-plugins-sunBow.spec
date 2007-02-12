@@ -1,5 +1,5 @@
 Summary:	sunBow - a collection of Eclipse plugins
-Summary(pl):	sunBow - zestaw wtyczek do Eclipsa
+Summary(pl.UTF-8):   sunBow - zestaw wtyczek do Eclipsa
 Name:		eclipse-plugins-sunBow
 Version:	2.0
 Release:	1
@@ -20,9 +20,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 sunBow is a collection of Eclipse plugins that make it easier to
 develop Cocoon based applications and XML solutions in general.
 
-%description -l pl
-sunBow jest zestawem wtyczek Eclipsa u³atwiaj±cych tworzenie aplikacji
-opartych na Cocoon i, w ogólno¶ci, rozwi±zaniach XML-owych.
+%description -l pl.UTF-8
+sunBow jest zestawem wtyczek Eclipsa uÅ‚atwiajÄ…cych tworzenie aplikacji
+opartych na Cocoon i, w ogÃ³lnoÅ›ci, rozwiÄ…zaniach XML-owych.
 
 %prep
 %setup -q -c

@@ -1,5 +1,5 @@
 Summary:	sunBow - a collection of Eclipse plugins
-Summary(pl.UTF-8):   sunBow - zestaw wtyczek do Eclipsa
+Summary(pl.UTF-8):	sunBow - zestaw wtyczek do Eclipsa
 Name:		eclipse-plugins-sunBow
 Version:	2.0
 Release:	1
